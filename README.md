@@ -3,7 +3,7 @@
 
 
 
-- 🌱 Estudando Analise e desenvolvimento de sistemas
+- 🧑‍💻 Estudando Analise e desenvolvimento de sistemas
 ![Julio github stats](https://github-readme-stats.vercel.app/api?username=devjulio&show_icons=tru&theme=dracula)
 
 ## Tecnologias que mais tenho afinidade.
